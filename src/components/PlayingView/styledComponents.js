@@ -47,7 +47,7 @@ export const HeadingsContainer = styled.div`
   flex-direction: column;
 `
 
-export const ScoreBoardTittles = styled.p`
+export const ScoreBoardTittles = styled.h1`
   color: #ffffff;
   font-family: Bree Serif;
   font-weight: 300;
@@ -104,7 +104,7 @@ export const OptionButton = styled.button`
   border: none;
 `
 
-export const ChoiceHeading = styled.h1`
+export const ChoiceHeading = styled.p`
   color: #ffffff;
   font-family: 'Bree Serif';
   font-size: 25px;
